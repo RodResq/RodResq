@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RodResq
-- 👀 I’m interested in Development, Teccnologies, Games and Outhes
+- 👀 I’m interested in Development, Teccnologies, Movies, books and Outhes related
 - 🌱 I’m currently learning Java, Jsf, Spring, Flutter, Python, Pl/Sql
 - 💞️ I’m looking to collaborate on all interested project systems
 - 📫 How to reach me in this place
