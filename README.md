@@ -4,7 +4,9 @@
 - 📫 How to reach me in this place
 - 📧 rodrigo.resque@gmail.com
 
-- ☕ 🐍 🐳 I’m currently learning Java,
+- ☕ 🐍 🐳 I’m currently learning: 
+
+
 ![image](https://user-images.githubusercontent.com/39658489/116016314-a56df100-a612-11eb-83e2-b70fa3f69d5f.png)
 ![image](https://user-images.githubusercontent.com/39658489/116016354-c3d3ec80-a612-11eb-8c7d-58ade63bafa6.png)
 ![image](https://user-images.githubusercontent.com/39658489/116016360-c9c9cd80-a612-11eb-9380-15830f0ce7c7.png)
