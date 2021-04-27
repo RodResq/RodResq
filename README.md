@@ -1,8 +1,8 @@
 - 🇧🇷 👽 Hi, I’m @RodResq 
 - 💻 🎥 📚 👨‍💻 I’m interested in Development, Teccnologies, Movies, books and Other related
-- 🧑‍💻 I’m looking to collaborate on all project that involves the technologies on mentioned above
+- 🧑‍💻 I’m looking to collaborate on all project that involves the technologies on mentioned bellow
 - 📫 How to reach me in this place
-- 📧 rodrigo.resque@gmail.com
+- 📧 rodrigo.resque@gmail.com 
 
 - ☕ 🐍 🐳 I’m currently learning: 
 
