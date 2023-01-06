@@ -22,6 +22,7 @@
 ![image](https://user-images.githubusercontent.com/39658489/116016456-0b5a7880-a613-11eb-9f26-34977d810a2e.png)
 ![image](https://user-images.githubusercontent.com/39658489/116016463-101f2c80-a613-11eb-8864-76f2c88ac6f5.png)
 ![image](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/ruby.png)
+![image](https://github.com/jmnote/z-icons/blob/master/16x16/bash.png)
 
 
 
